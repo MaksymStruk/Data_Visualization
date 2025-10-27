@@ -25,10 +25,10 @@ pip install pandas matplotlib numpy
 ```
 project/
 ├─ data/
-│   └─ input_data.csv         # Input data file
+│   └─ input_data.csv       # Input data file
 ├─ macroregions.py          # Dictionary with macroregion definitions
-├─ main.py                        # Main script with plotting functions
-└─ results/                         # Folder where charts are saved
+├─ main.py                  # Main script with plotting functions
+└─ results/                 # Folder where charts are saved
 ```
 
 ## CSV Format
